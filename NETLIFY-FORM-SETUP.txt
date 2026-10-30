@@ -1,0 +1,18 @@
+TRADIE SOLUTIONS — NETLIFY FORM SETUP
+
+This ZIP contains the full static website and Netlify form markup.
+
+Configured Netlify forms:
+- audit-request (contact.html)
+- audit-request-backup (contact-old-backup.html)
+- style-guide-demo (style-guide.html; demonstration form)
+- unsubscribe-request (unsubscribe.html)
+
+Important:
+- 401.html was intentionally left unchanged. Its form submits to Webflow's /.wf_auth endpoint for password-protected pages; it is not a contact/lead form and cannot be converted to a Netlify submission without changing its purpose.
+- All configured forms redirect to /contact-success.html.
+- Deploy the entire extracted website folder to Netlify, not just the changed HTML files.
+- In Netlify, make sure form detection is enabled (Site configuration / Forms, wording may vary), then trigger a fresh deploy so Netlify scans the HTML.
+- After deployment, open Netlify Forms and verify the form names appear. Submit a test entry to each form you intend to use.
+- Email notifications are not automatically configured by this ZIP. Configure notifications in Netlify for the forms you want emailed.
+- The style-guide form is a demo; it is included for completeness and may be best removed from public navigation or left unused.
