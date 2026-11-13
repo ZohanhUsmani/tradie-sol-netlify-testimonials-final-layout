@@ -6829,6 +6829,7 @@ figcaption {
 
 .home5-ui {
   z-index: 100;
+  display: none;
   position: relative;
 }
 
