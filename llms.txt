@@ -1,0 +1,25 @@
+# Tradie Solutions
+
+> Marketing agency for trade and home service businesses in Australia and the United States. Branding, websites, local SEO and paid ads, sold as monthly plans.
+
+## Services
+
+- [Branding](https://www.tradiesol.com/services/branding)
+- [Websites](https://www.tradiesol.com/services/websites)
+- [Local SEO](https://www.tradiesol.com/services/local-seo)
+- [Paid ads](https://www.tradiesol.com/services/google-ads)
+
+## Trades
+
+- [Electricians](https://www.tradiesol.com/industries/electricians)
+- [Plumbers](https://www.tradiesol.com/industries/plumbers)
+- [HVAC](https://www.tradiesol.com/industries/hvac)
+- [Lawn care](https://www.tradiesol.com/industries/lawn-care)
+- [Roofing and solar](https://www.tradiesol.com/industries/roofing-and-solar)
+- [Pool and spa](https://www.tradiesol.com/industries/pool-and-spa)
+
+## Company
+
+- [Work](https://www.tradiesol.com/work)
+- [About](https://www.tradiesol.com/about)
+- [Contact](https://www.tradiesol.com/contact)

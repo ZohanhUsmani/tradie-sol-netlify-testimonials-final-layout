@@ -1,0 +1,6 @@
+# START: robots
+User-agent: *
+Allow: /
+Disallow: /contact-success
+Sitemap: https://www.tradiesol.com/sitemap.xml
+# END: robots
