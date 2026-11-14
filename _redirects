@@ -17,4 +17,6 @@
 /contact.html                      /contact                    301!
 /privacy.html                      /privacy                    301!
 /terms.html                        /terms                      301!
+# Catch-all for any other .html URL, including future pages
+/*.html                            /:splat                     301!
 # END: redirects
