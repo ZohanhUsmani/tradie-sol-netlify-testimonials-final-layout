@@ -17,6 +17,23 @@
 /contact.html                      /contact                    301!
 /privacy.html                      /privacy                    301!
 /terms.html                        /terms                      301!
-# Catch-all for any other .html URL, including future pages
-/*.html                            /:splat                     301!
+/au.html                           /au                         301!
+/contact-success.html              /contact-success            301!
+/unsubscribe.html                  /unsubscribe                301!
+/branding-new.html                 /branding-new               301!
+/websites-new.html                 /websites-new               301!
+/local-seo-new.html                /local-seo-new              301!
+/home-v2.html                      /home-v2                    301!
+/home-v3.html                      /home-v3                    301!
+/home-v5.html                      /home-v5                    301!
+/old-home.html                     /old-home                   301!
+/home-old-backup.html              /home-old-backup            301!
+/contact-old-backup.html           /contact-old-backup         301!
+/services-old-backup.html          /services-old-backup        301!
+/detail_video-testimonials.html    /detail_video-testimonials  301!
+/style-guide.html                  /style-guide                301!
+/layers-lab.html                   /layers-lab                 301!
+/services/branding-old.html        /services/branding-old      301!
+/services/local-seo-old.html       /services/local-seo-old     301!
+/services/websites-old.html        /services/websites-old      301!
 # END: redirects
